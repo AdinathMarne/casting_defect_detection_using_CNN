@@ -1,1 +1,0 @@
-# casting_defect_detection_using_CNN
